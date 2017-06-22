@@ -1,3 +1,6 @@
+#takes a number as input, returns a pascal triangle as a list of lists, with n rows
+
+
 n = gets.chomp.to_i
 
 def pascal(n)
